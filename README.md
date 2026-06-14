@@ -303,4 +303,9 @@ GEMINI_API_KEY=your_gemini_api_key_here
   <img src="assets/screenshot_8.jpg" width="30%" alt="Screen 8" />
   <img src="assets/screenshot_9.jpg" width="30%" alt="Screen 9" />
 </p>
+<p align="center">
+  <img src="assets/screenshot_22.jpg" width="30%" alt="Instagram Connection Setup" />
+  <img src="assets/screenshot_23.jpg" width="30%" alt="Instagram Connection Live" />
+  <img src="assets/screenshot_24.jpg" width="30%" alt="FeedFlow Dashboard" />
+</p>
 
