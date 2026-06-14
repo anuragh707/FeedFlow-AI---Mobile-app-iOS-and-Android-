@@ -286,6 +286,14 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 ---
 
+## 🎥 Application Video Demo
+
+<p align="center">
+  <video src="assets/video_project.mp4" width="100%" controls></video>
+</p>
+
+---
+
 ## 📸 Application Screenshots
 
 <p align="center">
