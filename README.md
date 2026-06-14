@@ -283,3 +283,24 @@ GEMINI_API_KEY=your_gemini_api_key_here
 * **[1:40 - 2:00] Outro**:
   *(Camera cuts back to presenter)*
   "FeedFlow proves that social media feeds don't have to be a source of stress. By putting AI in the hands of the user, we personalize what matters. Try FeedFlow today. Thank you!"
+
+---
+
+## 📸 Application Screenshots
+
+<p align="center">
+  <img src="assets/screenshot_1.jpg" width="30%" alt="Screen 1" />
+  <img src="assets/screenshot_2.jpg" width="30%" alt="Screen 2" />
+  <img src="assets/screenshot_3.jpg" width="30%" alt="Screen 3" />
+</p>
+<p align="center">
+  <img src="assets/screenshot_4.jpg" width="30%" alt="Screen 4" />
+  <img src="assets/screenshot_5.jpg" width="30%" alt="Screen 5" />
+  <img src="assets/screenshot_6.jpg" width="30%" alt="Screen 6" />
+</p>
+<p align="center">
+  <img src="assets/screenshot_7.jpg" width="30%" alt="Screen 7" />
+  <img src="assets/screenshot_8.jpg" width="30%" alt="Screen 8" />
+  <img src="assets/screenshot_9.jpg" width="30%" alt="Screen 9" />
+</p>
+
